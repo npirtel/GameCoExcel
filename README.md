@@ -5,5 +5,5 @@ GameCo is a new video game company that has hired me to use its video game data 
 
 I used Excel to clean, group, summarize, and analyze game sales data to answer specific business questions related to total sales figures, how sales differed over time and between geographical regions, and how game genres differed in popularity. I put together a final market budget presentation to analyze historical and current video game market trends, review and revise GameCo’s current understanding of the market, and recommend actions to maintain and increase GameCo’s future profitability.
 
-##Technical skills
+## Technical skills
 -> Use of Excel for data cleaning, summarizing (PivotTables), analysis, and visualizations.
